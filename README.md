@@ -24,3 +24,5 @@ gulp test - TODO
 gulp serve - TODO
 gulp bundle - TODO
 gulp package-solution - TODO
+
+# Forked repo from SP-StarterKit and https://github.com/bcameron1231/SP-StarterKit-IsolatedTiles
